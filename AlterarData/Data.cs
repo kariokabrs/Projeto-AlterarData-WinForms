@@ -3,7 +3,7 @@ using System.Data;
 
 namespace AlterarData
 {
-    class Data
+    class Data : InterfaceData
     {
         #region Propriedades
 
